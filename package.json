@@ -1,9 +1,9 @@
 {
-  "name": "first-addon",
-  "title": "first-addon",
+  "name": "twitch-filter",
+  "title": "Twitch-Filter",
   "id": "jid1-wv78UsUZIZr80A",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Twitch-Filter allows the user to prevent channels and games they don't want to see from appearing",
+  "author": "Quentin Luu",
   "license": "MPL 2.0",
   "version": "0.1"
 }
